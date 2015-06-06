@@ -1,0 +1,10 @@
+{
+  "name": "ClearentLockerDome",
+  "version": "0.0.0",
+  "description": "ClearentLockerDome",
+  "main": "server.js",
+  "author": {
+    "name": "msundt",
+    "email": ""
+  }
+}
